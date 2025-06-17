@@ -13,6 +13,6 @@ with hands-on experience in modern web technologies, infrastructure automation, 
 
 ### 📫 Let’s connect
 
-- ✉️ Email: [we7drr@protonmail.com](mailto:we7drr@protonmail.com)  
+- ✉️ Email: [zuxell447@gmail.com](mailto:zuxell447@gmail.com)  
 - 💬 Telegram: [@We7drr](https://t.me/We7drr)  
 - 🌐 Portfolio: [siteberry.pro](https://siteberry.pro)
