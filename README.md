@@ -1,4 +1,20 @@
-### Hi there 👋
+👋 Hi there!
+I'm a Full-Stack Developer | DevOps Engineer | Web3 Specialist with hands-on experience in modern web technologies, infrastructure automation, and blockchain solutions.
 
-![images (3)](https://user-images.githubusercontent.com/86493242/206212449-e7e4625c-da4d-42da-8abf-7a813db1d8f2.jpg)
+🧠 Self-taught engineer with real-world project experience
 
+⚙️ Managing 50+ servers with Ansible, Docker, and CI/CD pipelines
+
+💻 Building robust React + Node.js applications with Web3 integrations
+
+🔗 Skilled in Smart Contracts, DeFi, NFT, and node infrastructure
+
+🚀 Passionate about open-source, automation, and decentralized tech
+
+📫 Let’s connect:
+
+Email: we7drr@protonmail.com
+
+Telegram: @We7drr
+
+Portfolio: siteberry.pro
